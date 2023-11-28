@@ -1,0 +1,3 @@
+<?php
+ecrireDansFichier($texteAEcrire, $nomDuFichier);
+?>

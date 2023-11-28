@@ -1,0 +1,4 @@
+<?php 
+$contenuLu = lireFichier($nomDuFichierALire);
+
+?>
